@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ventas" />
         <module name="server" />
-        <module name="demo" />
         <module name="medicamentos" />
         <module name="gateway" />
       </profile>
